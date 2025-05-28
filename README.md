@@ -20,7 +20,7 @@ Component	Description<br>
 -PIR Motion Sensor	(Reserved for future use)<br>
 -Breadboard & Wires	For circuit assembly<br><br>
 
-<h2>🔄 Operating Modes</h2><br>
+<h2>🔄 Operating Modes</h2>
 MEASURE Mode<br>
 1.Reads and displays humidity and temperature every second.<br>
 2.Output shown on LCD and Serial Monitor.<br>
